@@ -1,8 +1,40 @@
 /* global.css */
+* {
+    box-sizing: border-box;
+}
+html {
+    font-size: 1.25em;
+}
 body {
     font-family: 'Work Sans', sans-serif;
 }
 .wrap {
     max-width: 1250px;
     margin: 0 auto;
+    padding: 0 1rem;
+}
+header {
+    background: #57496e;
+    padding: 1rem 0;
+    margin-bottom: 1.5rem;
+}
+.header--flex {
+    display: flex;
+    justify-content: space-between;
+}
+.header--logo {
+    font-size: 1.25rem;
+    color: #fff;
+}
+header li {
+    display: inline-block;
+    font-size: .9rem;
+}
+header nav a {
+    color: rgba(255,255,255,.7);
+    text-decoration: none;
+    margin-left: 1rem;
+}
+header nav a:hover {
+    color: #fff;
 }
