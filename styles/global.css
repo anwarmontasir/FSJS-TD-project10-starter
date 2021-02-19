@@ -42,8 +42,8 @@ header li {
 }
 header nav a {
     color: #dbd;
-    margin-left: .5rem;
     display: inline-block;
+    margin-left: 10px;
 }
 header nav a:hover {
     color: #fff;
