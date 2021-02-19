@@ -19,7 +19,7 @@ a {
 .wrap {
     max-width: 1250px;
     margin: 0 auto;
-    padding: 0 1rem;
+    padding: 0 .8rem;
 }
 header {
     background: #57496e;
@@ -30,6 +30,7 @@ header {
 .header--flex {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 .header--logo a {
     font-size: 1.25rem;
@@ -37,11 +38,12 @@ header {
 }
 header li {
     display: inline-block;
-    font-size: .9rem;
+    font-size: .8rem;
 }
 header nav a {
     color: #dbd;
-    margin-left: 1rem;
+    margin-left: .5rem;
+    display: inline-block;
 }
 header nav a:hover {
     color: #fff;
@@ -56,6 +58,8 @@ header nav a:hover {
 .course--label {
     color: rgba(255,255,255,.7);
     font-size: .9rem;
+    font-weight: 400;
+    margin-bottom: .25rem;
 }
 .course--title {
     color: #fff;
