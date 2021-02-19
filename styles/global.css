@@ -8,6 +8,11 @@ html {
 body {
     font-family: 'Work Sans', sans-serif;
 }
+h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
 a {
     text-decoration: none;
 }
@@ -18,6 +23,7 @@ a {
 }
 header {
     background: #57496e;
+    color: #fff;
     padding: 1rem 0;
     margin-bottom: 1.5rem;
 }
@@ -25,7 +31,7 @@ header {
     display: flex;
     justify-content: space-between;
 }
-.header--logo {
+.header--logo a {
     font-size: 1.25rem;
     color: #fff;
 }
@@ -34,7 +40,7 @@ header li {
     font-size: .9rem;
 }
 header nav a {
-    color: rgba(255,255,255,.7);
+    color: #dbd;
     margin-left: 1rem;
 }
 header nav a:hover {
@@ -56,7 +62,6 @@ header nav a:hover {
     font-weight: 700;
     font-size: 1.25rem;
 }
-
 .course--add--module {
     background: #cdc9d4;
     color: #57496e;

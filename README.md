@@ -4,4 +4,5 @@ An accessible, responsive rebuild of [Treehouse's](https://teamtreehouse.com/) F
 
 ## Completed pages
 
+* [forbidden.html](https://anwarmontasir.github.io/FSJS-TD-project10-starter/markup/forbidden.html)
 * [index.html](https://anwarmontasir.github.io/FSJS-TD-project10-starter/markup/index.html)
