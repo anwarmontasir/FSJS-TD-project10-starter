@@ -57,6 +57,19 @@ header nav a:hover {
     font-size: 1.25rem;
 }
 
+.course--add--module {
+    background: #cdc9d4;
+    color: #57496e;
+    font-weight: 300;
+    font-size: 1.25rem;
+}
+.course--add--title .add {
+    width: 20px;
+    height: auto;
+    margin-right: 5px;
+    fill: #57496e;
+}
+
 @media screen and (min-width: 600px) {
     .main--grid {
         display: grid;
