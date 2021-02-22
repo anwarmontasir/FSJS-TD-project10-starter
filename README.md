@@ -9,3 +9,4 @@ An accessible, responsive rebuild of [Treehouse's](https://teamtreehouse.com/) F
 * [index.html](https://anwarmontasir.github.io/FSJS-TD-project10-starter/markup/index.html)
 * [not-found.html](https://anwarmontasir.github.io/FSJS-TD-project10-starter/markup/not-found.html)
 * [sign-in.html](https://anwarmontasir.github.io/FSJS-TD-project10-starter/markup/sign-in.html)
+* [sign-up.html](https://anwarmontasir.github.io/FSJS-TD-project10-starter/markup/sign-up.html)
