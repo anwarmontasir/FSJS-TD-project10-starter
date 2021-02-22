@@ -13,7 +13,9 @@ h2 {
     font-weight: 700;
     margin-bottom: 1rem;
 }
+p {font-weight: 300;}
 a {
+    color: #939;
     text-decoration: none;
 }
 .wrap {
@@ -77,6 +79,65 @@ header nav a:hover {
     height: auto;
     margin-right: 5px;
     fill: #57496e;
+}
+
+.form--centered {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 0 .8rem;
+}
+form {
+    margin-bottom: 2.5rem;
+}
+label {
+    display: block;
+    font-weight: 300;
+    margin-bottom: .25rem;
+}
+input {
+    display: block;
+    width: 100%;
+    color: #332a40;
+    border-radius: .5rem;
+    border: 1px solid #ccc4d8;
+    padding: .5rem;
+    margin-bottom: 1rem;
+    font-family: 'Work Sans', sans-serif;
+    font-size: .8rem;
+}
+input:focus, button:focus {
+    border: none;
+    border-radius: 0;
+    outline: 2px solid #332a40;
+}
+
+.button {
+    background: #7c689b;
+    color: #fff;
+    font-size: 1rem;
+    padding: .75rem 1.5rem;
+    border: 0;
+    margin-right: .5rem;
+    border-radius: .5rem;
+    font-weight: bold;
+    display: inline-block;
+    transition: background 0.2s;
+}
+.button:not(.button-secondary):hover {
+    background: #63537d;
+    cursor: pointer;
+}
+  
+.button-secondary {
+    color: #7c689b;
+    background: none;
+    box-shadow: 0 0 0 2px #7c689b inset;
+    transition: box-shadow 0.2s, color 0.2s;
+}
+.button-secondary:hover {
+    color: #63537d;
+    box-shadow: 0 0 0 2px #63537d inset;
+    cursor: pointer;
 }
 
 @media screen and (min-width: 600px) {
