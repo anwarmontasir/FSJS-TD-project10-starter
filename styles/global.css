@@ -180,6 +180,9 @@ textarea {
     font-weight: bold;
     transition: background 0.2s;
 }
+.button:last-child {
+    margin-bottom: 0;
+}
 .button:not(.button-secondary):hover {
     background: #63537d;
     cursor: pointer;
