@@ -69,7 +69,7 @@ header nav a:hover {
     display: block;
 }
 .course--label {
-    color: rgba(255,255,255,.7);
+    color: rgba(255,255,255,.8);
     font-size: .9rem;
     font-weight: 400;
     margin-bottom: .25rem;
