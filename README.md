@@ -4,6 +4,7 @@ An accessible, responsive rebuild of [Treehouse's](https://teamtreehouse.com/) F
 
 ## Completed pages
 
+* [course-detail.html](https://anwarmontasir.github.io/FSJS-TD-project10-starter/markup/course-detail.html)
 * [create-course.html](https://anwarmontasir.github.io/FSJS-TD-project10-starter/markup/create-course.html)
 * [error.html](https://anwarmontasir.github.io/FSJS-TD-project10-starter/markup/error.html)
 * [forbidden.html](https://anwarmontasir.github.io/FSJS-TD-project10-starter/markup/forbidden.html)
@@ -11,3 +12,4 @@ An accessible, responsive rebuild of [Treehouse's](https://teamtreehouse.com/) F
 * [not-found.html](https://anwarmontasir.github.io/FSJS-TD-project10-starter/markup/not-found.html)
 * [sign-in.html](https://anwarmontasir.github.io/FSJS-TD-project10-starter/markup/sign-in.html)
 * [sign-up.html](https://anwarmontasir.github.io/FSJS-TD-project10-starter/markup/sign-up.html)
+* [update-course.html](https://anwarmontasir.github.io/FSJS-TD-project10-starter/markup/update-course.html)
